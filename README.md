@@ -1,4 +1,4 @@
 # terraform-commands
-sh'''
+```sh
 aws configure --profile devops_profile
-'''
+```
